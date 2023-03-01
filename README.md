@@ -36,3 +36,9 @@ print("Not Vulnerable Payload! : " + x)
 ```
 
 ## The Output
+![sql1](https://user-images.githubusercontent.com/126514202/222053150-174785d6-d46e-43b1-aa79-cc4b0466e3d1.png)
+
+## Check Output
+![sql2](https://user-images.githubusercontent.com/126514202/222053148-a2a57a99-0a27-4725-a354-f335e952a991.png)
+![sql3](https://user-images.githubusercontent.com/126514202/222053139-5c97bea3-8943-4688-8047-1de046baf900.png)
+

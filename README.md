@@ -1,5 +1,7 @@
 # SQL-Injection
 This tool is built using the python programming language.
+<br>
+<br>
 
 # Code Description
 Using the requests module to make requests to the web page.
@@ -40,5 +42,9 @@ print("Not Vulnerable Payload! : " + x)
 
 ## Check Output
 ![sql2](https://user-images.githubusercontent.com/126514202/222053148-a2a57a99-0a27-4725-a354-f335e952a991.png)
+
+<br>
+<br>
+
 ![sql3](https://user-images.githubusercontent.com/126514202/222053139-5c97bea3-8943-4688-8047-1de046baf900.png)
 
